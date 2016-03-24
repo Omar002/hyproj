@@ -1,6 +1,8 @@
 *.pyc
 *.pyo
 
+////pass@word1234
+
 venv/
 media/
 web/migrations/
